@@ -14,7 +14,7 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AikoSimidzu&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=AikoSimidzu&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" />
 </div>
 
 <div align="center">
