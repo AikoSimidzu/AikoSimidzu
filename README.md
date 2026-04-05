@@ -26,3 +26,12 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AikoSimidzu&theme=tokyonight&hide_border=true" alt="Commit streak" />
 </div>
+
+### 📫 How to contact:
+<a href="https://t.me/AikoSimidzu">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+</a>
+
+<a href="https://lolz.live/aikosimidzu/">
+  <img src="https://img.shields.io/badge/LOLZ-2D2D2D?style=for-the-badge" alt="Lolz" />
+</a>
