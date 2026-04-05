@@ -16,8 +16,7 @@
 
 ### 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=AikoSimidzu&show_icons=true&theme=tokyonight&hide_border=true&hide_rank=true" alt="Статистика Yato" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AikoSimidzu&layout=compact&theme=tokyonight&hide_border=true" alt="Топ языков" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AikoSimidzu&layout=compact&theme=tokyonight&hide_border=true" alt="Top Lang" />
 </div>
 
 <div align="center">
