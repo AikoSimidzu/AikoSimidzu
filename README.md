@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi! 👋
 
-<!--
-**AikoSimidzu/AikoSimidzu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About me:
+- I write in C# .NET
+- FullStack Developer
+- I am interested in system vulnerabilities
 
-Here are some ideas to get you started:
+### 🛠️ Tech & Tools:
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET 10](https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📊 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AikoSimidzu&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats Yato" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AikoSimidzu&theme=tokyonight&hide_border=true" alt="Commit streak" />
+</div>
